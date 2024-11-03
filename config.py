@@ -1,0 +1,1 @@
+FOLDER_OF_RAW_FILES = 'rawfiles/'
